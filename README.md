@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shivani yadav
 - 🌱 I’m a Ambitious Software Developer Engineer, with 1year of experience in building scalable, reliable and high-performance systems.
-- 📫 How to reach me "shivani16btcs0413@gmail.com"
+- 📫 Cantact detail "shivani16btcs0413@gmail.com"
 
 <!---
 shivani16btcs/shivani16btcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
