@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shivani yadav
-- 🌱 I’m a Ambitious Software Development Engineer, with 1.5 year of experience in building scalable, reliable and high-performance systems.
+- 🌱 I’m a Ambitious Software Development Engineer, with 1.5+ year of experience in building scalable, reliable and high-performance systems.
 - 📫 Cantact detail "shivani16btcs0413@gmail.com"
 
 <!---
