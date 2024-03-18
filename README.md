@@ -1,6 +1,6 @@
 
 👋 Hello there! I'm Shivani Yadav.
-🌱 With over 4 years of experience, I specialize in crafting scalable, reliable, and high-performance systems.
+🌱 With over 4+ years of experience, I specialize in crafting scalable, reliable, and high-performance systems.
 🏠 Explore my portfolio at: Shivani's Portfolio
 
 <!---
